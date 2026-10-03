@@ -21,6 +21,7 @@ Then weigh:
 - product value
 - UX
 - business value
+- go-to-market / distribution viability
 - technical feasibility
 - security/risk
 - reversibility

@@ -47,6 +47,7 @@ Council members are subagents. Launch each one with the Agent tool. The `subagen
 | User Advocate | `user-advocate` |
 | UX Expert | `ux-expert` |
 | Business Strategist | `business-strategist` |
+| Growth & Go-to-Market | `growth-gtm` |
 | Data Analyst | `data-analyst` |
 | Technical Architect | `technical-architect` |
 | Security/Risk | `security-risk` |
@@ -64,7 +65,7 @@ Mechanics you must respect:
 | Phase | quick | standard | deep |
 |---|---|---|---|
 | 0 Frame (+ ask user if critical info missing) | ✓ | ✓ | ✓ |
-| 1 Independent round | PM, UX, Tech, Red Team | all 8 members | all 8 members |
+| 1 Independent round | PM, UX, Tech, Red Team | all 9 members | all 9 members |
 | 2 Evidence matrix | key claims | all decision-relevant claims | full audit |
 | 3 Cross-examination | all 4 members | all members | all members |
 | 4 Debate | — | 1 round | 2 rounds |
@@ -75,7 +76,7 @@ Mechanics you must respect:
 
 Mode controls breadth (how many roles, how many debate rounds). It never controls rigor: within any mode, no phase is shortened to save tokens.
 
-Typical calls: quick ≈ 9–10 · standard ≈ 18–24 · deep ≈ 28–35. Before a `deep` run, say in one line that it is the expensive mode, then proceed.
+Typical calls: quick ≈ 9–10 · standard ≈ 20–27 · deep ≈ 31–39. Before a `deep` run, say in one line that it is the expensive mode, then proceed.
 
 ## Phase 0 — Frame
 
@@ -118,6 +119,7 @@ Required focus:
 - Red Team attacks the proposal AND the council's reasoning.
 - Technical Architect challenges hidden implementation assumptions.
 - Data Analyst challenges claims made without evidence.
+- Growth & Go-to-Market challenges the assumption that a good product will be found and adopted on its own.
 
 Record: concessions, changed positions (with reason), surviving disagreements.
 

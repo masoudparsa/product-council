@@ -1,6 +1,6 @@
 {
   "name": "product-council",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Multi-agent product decision council: independent analysis, cross-examination, debate, technical feasibility, and chairman synthesis.",
   "author": {
     "name": "Masoud Parsanejad"

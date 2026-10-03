@@ -69,6 +69,7 @@ Two templates: **Quick report** (quick mode) and **Full report** (standard / dee
 | User Advocate | | | | |
 | UX Expert | | | | |
 | Business Strategist | | | | |
+| Growth & Go-to-Market | | | | |
 | Data Analyst | | | | |
 | Technical Architect | | | | |
 | Security/Risk | | | | |
@@ -112,6 +113,7 @@ Only what the debate added beyond section 3 — do not repeat positions.
 | User value | | |
 | UX | | |
 | Business | | |
+| Go-to-market & growth | | |
 | Data & evidence | | |
 | Security & risk | | |
 
