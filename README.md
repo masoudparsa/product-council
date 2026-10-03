@@ -1,8 +1,8 @@
-# Global Product Council v2.1
+# Product Council
 
 A structured multi-agent Product + Technical Decision Council for Claude Code.
 
-## What is different in v2?
+## How it works
 
 The council does not simply collect opinions.
 
