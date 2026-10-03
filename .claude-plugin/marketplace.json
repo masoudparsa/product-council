@@ -1,0 +1,14 @@
+{
+  "name": "product-council",
+  "owner": {
+    "name": "Masoud Parsanejad"
+  },
+  "plugins": [
+    {
+      "name": "product-council",
+      "source": "./",
+      "description": "Multi-agent product decision council: independent analysis, cross-examination, debate, technical feasibility, and chairman synthesis.",
+      "version": "2.1.0"
+    }
+  ]
+}
